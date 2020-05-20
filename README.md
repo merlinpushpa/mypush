@@ -1,0 +1,2 @@
+# mypush
+my first repository
